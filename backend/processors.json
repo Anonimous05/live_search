@@ -1,0 +1,42 @@
+[
+  {
+    "name": "core i5 2500",
+    "description": "4 ядра 8 потоков!"
+  },
+  {
+    "name": "core i5 4460",
+    "description": "4 ядра 8 потоков!"
+  },
+  {
+    "name": "core i5 5200u",
+    "description": "4 ядра 8 потоков!"
+  },
+  {
+    "name": "core i5 5200u",
+    "description": "4 ядра 8 потоков!"
+  },
+  {
+    "name": "core i5 6600k",
+    "description": "8 ядер 16 потоков!"
+  },
+  {
+    "name": "core i5 7600k",
+    "description": "8 ядер 16 потоков!"
+  },
+  {
+    "name": "core i5 8600k",
+    "description": "16 ядер 32 потоков"
+  },
+  {
+    "name": "core i3 9100f",
+    "description": "16 ядер 32 потоков"
+  },
+  {
+    "name": "core i7 9700k",
+    "description": "16 ядер 32 потоков"
+  },
+  {
+    "name": "core i9 9900k",
+    "description": "24 ядра 48 потоков"
+  }
+]
